@@ -50,7 +50,7 @@
     "figlet": "1.4.0",
     "glob": "7.1.6",
     "graphback": "0.14.0-alpha4",
-    "graphql": "^14.6.0",
+    "graphql": "^14.6.0 || ^15.0.0",
     "graphql-config": "3.0.2",
     "graphql-migrations": "0.14.0-alpha4",
     "inquirer": "7.2.0",
